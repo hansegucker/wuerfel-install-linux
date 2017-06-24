@@ -1,0 +1,10 @@
+Package: wuerfelgui
+Version: 1.0.0-0
+Section: math
+Priority: extra
+Architecture: all
+Depends:
+Installed-Size: 117145.6
+Maintainer: HanseGucker <hansegucker@gmail.com>
+Homepage: https://github.com/hansegucker/wuerfel
+Description: Ein Würfelskript mit grafischer Oberfläche.
